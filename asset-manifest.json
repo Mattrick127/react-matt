@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-matt/static/css/main.ad16dd3a.css",
+    "main.js": "/react-matt/static/js/main.c8b06692.js",
+    "static/js/787.c9ccbe4b.chunk.js": "/react-matt/static/js/787.c9ccbe4b.chunk.js",
+    "static/media/remi-delmotte-hueco-mundo.jpg": "/react-matt/static/media/remi-delmotte-hueco-mundo.69067ecc5069e6020d83.jpg",
+    "static/media/resume.png": "/react-matt/static/media/resume.bdde3c21c987e776c0a7.png",
+    "index.html": "/react-matt/index.html",
+    "main.ad16dd3a.css.map": "/react-matt/static/css/main.ad16dd3a.css.map",
+    "main.c8b06692.js.map": "/react-matt/static/js/main.c8b06692.js.map",
+    "787.c9ccbe4b.chunk.js.map": "/react-matt/static/js/787.c9ccbe4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad16dd3a.css",
+    "static/js/main.c8b06692.js"
+  ]
+}
