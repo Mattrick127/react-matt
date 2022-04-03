@@ -13,8 +13,8 @@ This is my first react-made project portfolio!
 
 ## Installation
 
-You can either visit this site to see my live site: 
-https://mattrick127.github.io/react-matt/![Screenshot (25)](https://user-images.githubusercontent.com/74633125/161418419-99551efa-081b-4feb-9553-cab56c01f1c3.png)
+You can either visit this site to see my live site: ![Screenshot (25)](https://user-images.githubusercontent.com/74633125/161418429-96a1ad52-b0f7-4f41-a67a-19b1e5b6905c.png)
+
 
 or to see my localhost version
 git clone to your local this repo, npm i to install dependencies, and then npm start to see it go!
