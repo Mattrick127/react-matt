@@ -13,7 +13,8 @@ This is my first react-made project portfolio!
 
 ## Installation
 
-You can either visit this site to see my live site: ![Screenshot (25)](https://user-images.githubusercontent.com/74633125/161418429-96a1ad52-b0f7-4f41-a67a-19b1e5b6905c.png)
+You can either visit this site to see my live site: https://mattrick127.github.io/react-matt/
+![Screenshot (25)](https://user-images.githubusercontent.com/74633125/161418429-96a1ad52-b0f7-4f41-a67a-19b1e5b6905c.png)
 
 
 or to see my localhost version
@@ -31,8 +32,6 @@ You can add on to my project as much as you'd like.
 
 Have fun, and I hope this ave you time.
 
-# If you were looking to contact me for any additional information, below I have provided my email and github address.
+# If you were looking to contact me for any additional information, below I have provided my email
 
-mattrick127
-
-https://github.com/mattrick2214@gmail.com
+mattrick127@gmail.com
