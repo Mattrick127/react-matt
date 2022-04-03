@@ -1,34 +1,30 @@
 
-# A README.md Generator
+# My React.js Portfolio!
 
 ## Description 
 
-undefined
-It creates a README.md
+This is my first react-made project portfolio!
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Questions](#questions)
-* [Tests](#tests)
 
 ## Installation
 
-Go to my github and undex readme-generator, git clone to your local.
-![alt text](assets/images/screenshot.png)
-https://watch.screencastify.com/v/6rPM01tvdEZYxSXlgOjF
+You can either visit this site to see my live site: ![image](https://user-images.githubusercontent.com/74633125/161418365-c71b3910-ab69-4543-91f5-bfaf59f73a5a.png)
+https://mattrick127.github.io/react-matt/
+or to see my localhost version
+git clone to your local this repo, npm i to install dependencies, and then npm start to see it go!
+
 ## Usage
 
-To quickly create a README that adds to your primary folder in your application as quick as possible.
+I'll use this to showcase myself and my works!
 
 ## Contributing
 
 You can add on to my project as much as you'd like.
-
-## Tests
-
-The badges and license function does not entirely work.
 
 ## Questions
 
