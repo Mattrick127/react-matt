@@ -21,6 +21,7 @@ function App() {
 
 
   return (
+    <main>
     <div>
       <Nav
         categories={categories}
@@ -47,10 +48,11 @@ function App() {
           <ContactForm></ContactForm>
         )} */}
       </main>
+    </div>
       <footer>
       <Footer></Footer>
       </footer>
-    </div>
+    </main>
   );
 }
 
