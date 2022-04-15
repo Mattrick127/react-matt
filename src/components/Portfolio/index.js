@@ -5,6 +5,7 @@ import passwordgenerator from "../../assets/images/portfolio/passwordgenerator.p
 import soulmeet from "../../assets/images/portfolio/soulmeet.png"
 import weather from "../../assets/images/portfolio/weatherdashboard.png"
 import teamprofile from "../../assets/images/portfolio/teamprofile.png"
+import gogogomez from "../../assets/images/portfolio/gogogomez.png"
 
 function Portfolio() {
     return (
@@ -22,6 +23,8 @@ function Portfolio() {
             <p>My weather api that'll call information on your city from oneweather.api<a href="https://github.com/Mattrick127/weather-dashboard">|Weather API Github|</a><a href="https://mattrick127.github.io/weather-dashboard/">|Deployed Site|</a></p>
             <img src={weather} alt="teamprofile"></img>
             <p>This is a inquirer made application that'll provide a profile for your team!<a href="https://github.com/Mattrick127/team-profile-generator">|Team Generator Github|</a><a href="https://mattrick127.github.io/password-generator/">|Deployed Site|</a></p>
+            <img src={gogogomez} alt="gogogomez"></img>
+            <p>This is Project 3's Food Delivery Takeout Site!<a href="https://github.com/chellesjord/gogogomez">|Gogogomez!|</a><a href="https://shrouded-journey-40287.herokuapp.com/">|Deployed Site|</a></p>
         </section>
     )
 }
