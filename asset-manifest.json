@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/react-matt/static/css/main.2b0ff492.css",
-    "main.js": "/react-matt/static/js/main.657fdf71.js",
+    "main.js": "/react-matt/static/js/main.3ad00e13.js",
     "static/js/787.c9ccbe4b.chunk.js": "/react-matt/static/js/787.c9ccbe4b.chunk.js",
     "static/media/soulmeet.png": "/react-matt/static/media/soulmeet.85650370410819e14db0.png",
     "static/media/remi-delmotte-hueco-mundo.jpg": "/react-matt/static/media/remi-delmotte-hueco-mundo.69067ecc5069e6020d83.jpg",
     "static/media/teamprofile.png": "/react-matt/static/media/teamprofile.ded240ce5aba185efef7.png",
     "static/media/resume.png": "/react-matt/static/media/resume.bdde3c21c987e776c0a7.png",
     "static/media/love.jpg": "/react-matt/static/media/love.77dec801901f486beda6.jpg",
+    "static/media/gogogomez.png": "/react-matt/static/media/gogogomez.989b463b68959a7269b3.png",
     "static/media/budgettracker.png": "/react-matt/static/media/budgettracker.b59b33f934418c7373f6.png",
     "static/media/weatherdashboard.png": "/react-matt/static/media/weatherdashboard.200ea756942026425e85.png",
     "static/media/passwordgenerator.png": "/react-matt/static/media/passwordgenerator.c0e3f9391ab842762c78.png",
     "static/media/notetaker.png": "/react-matt/static/media/notetaker.a7cc61d96063d07592da.png",
     "index.html": "/react-matt/index.html",
     "main.2b0ff492.css.map": "/react-matt/static/css/main.2b0ff492.css.map",
-    "main.657fdf71.js.map": "/react-matt/static/js/main.657fdf71.js.map",
+    "main.3ad00e13.js.map": "/react-matt/static/js/main.3ad00e13.js.map",
     "787.c9ccbe4b.chunk.js.map": "/react-matt/static/js/787.c9ccbe4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b0ff492.css",
-    "static/js/main.657fdf71.js"
+    "static/js/main.3ad00e13.js"
   ]
 }
